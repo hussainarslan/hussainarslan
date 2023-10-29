@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Hussain Arslan 👋
 
-<!--
-**hussainarslan/hussainarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who loves to create and learn new things. I have experience in developing web and mobile applications using various technologies and languages. 
 
-Here are some ideas to get you started:
+## 🔧 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end**: React, React Native, HTML, CSS, JavaScript, TypeScript
+- **Back-end**: Node.js, Express, MongoDB, SQL
+- **Programming Languages**: C, C++, Python, Kotlin, Java
+- **Tools**: Git, GitHub, VS Code, Android Studio, Postman
+
+## 🌱 I’m currently learning
+
+- How to improve my UI/UX design skills
+- How to use GraphQL and Apollo for building scalable APIs
+- How to implement authentication and authorization using Firebase and JWT
+
+## 📫 How to reach me
+
+- Email: m.hussain.arslan@gmail.com
+- LinkedIn: [Hussain Arslan](https://www.linkedin.com/in/hussainarslan/)
+
+
