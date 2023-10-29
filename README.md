@@ -30,8 +30,10 @@ I'm a software engineer who loves to create and learn new things. I have experie
 - **Programming Languages**: C, C++, Python, Kotlin, Java
 - **Tools**: Git, GitHub, VS Code, Android Studio, Postman
 
-
-![hussainarslan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainarslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div style = "margin:auto">
+  
+  ![hussainarslan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainarslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 
 ## 🌱 I’m currently learning
