@@ -19,7 +19,6 @@ I'm a software engineer who loves to create and learn new things. I have experie
   <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/c.gif" width="100">
   <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/html.gif" width="100">
   <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/mongo.gif" width="100">
-  <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/firebase.gif" width="100">
   <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/css.gif" width="100">
 </div>
 <br><br>  
