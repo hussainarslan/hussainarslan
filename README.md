@@ -1,47 +1,121 @@
-![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+# Hussain Arslan
 
-# Hi there, I'm Hussain Arslan 👋
+**Software Engineer | Building AI-powered systems that actually ship**
 
-I'm a software engineer who loves to create and learn new things. I have experience in developing web and mobile applications using various technologies and languages. 
+I specialize in multi-agent orchestration, LLM optimization, and production systems that handle real-world complexity. From voice-powered legal intake to intelligent document processing pipelines, I build AI infrastructure that scales.
 
-## 🔧 My Skills
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  
-  <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/c.gif" width="100">
-  <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/html.gif" width="100">
-  <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/mongo.gif" width="100">
-  <img src="https://raw.githubusercontent.com/hussainarslan/hussainarslan/main/assets/css.gif" width="100">
-</div>
-<br><br>  
+## By the Numbers
 
+| Metric | Achievement |
+|--------|-------------|
+| API Latency | P95 under 600ms with full AI pipeline |
+| Batch Processing | 10x faster embedding generation |
+| Concurrent Jobs | 98-100% success rate at 10 simultaneous jobs |
+| Cost per Analysis | $0.012 per deep analysis job |
+| Query Performance | Sub-10ms indexed lookups |
+| PDF Processing | 18+ documents in 5-6 minutes |
 
-- **Front-end**: React, React Native, HTML, CSS, JavaScript, TypeScript
-- **Back-end**: Node.js, Express, MongoDB, SQL
-- **Programming Languages**: C, C++, Python, Kotlin, Java
-- **Tools**: Git, GitHub, VS Code, Android Studio, Postman
+Additional optimizations: 200-400ms saved via GCS streaming, 50-100ms saved via connection pooling.
 
-![hussainarslan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainarslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+---
 
+## What I Build
 
+**Multi-Agent Orchestration** - Coordinated AI systems with specialized agents working in parallel
 
-## 🌱 I’m currently learning
+**Intelligent Document Processing** - PDF extraction pipelines with semantic chunking and vector storage
 
-- How to improve my UI/UX design skills
-- How to use GraphQL and Apollo for building scalable APIs
-- How to implement authentication and authorization using Firebase and JWT
+**Voice and Conversational AI** - Real-time voice agents for legal intake and customer interaction
 
-## 📫 How to reach me
+**Performance-Optimized Analysis Platforms** - Website intelligence with sub-10ms query performance
+
+**Developer Tools and Agents** - Streaming chat agents, MCP servers, and AI-powered development workflows
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat&logo=reactquery&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vuedotjs&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat&logo=convex&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**AI/LLM**
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logo=langfuse&logoColor=white)
+![CopilotKit](https://img.shields.io/badge/CopilotKit-000000?style=flat&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat&logo=vercel&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+---
+
+## Featured Projects
+
+**Portus** - Multi-agent orchestration platform integrating with Claude Desktop and MCP for coordinated AI workflows
+
+**Obelisk** - Website intelligence platform with vector search, achieving sub-10ms indexed lookups and comprehensive competitive analysis
+
+**GRACE** - Voice-powered intake agents for legal automation, handling real-time conversational AI for client onboarding
+
+**Anatomia** - Healthcare management system with real-time patient queue management, nurse and doctor workflow automation, and role-based dashboards
+
+---
+
+## Currently Exploring
+
+- Advanced multi-agent coordination patterns
+- Vector database optimization for semantic search
+- Edge computing for LLM inference
+
+---
+
+## Contact
 
 - Email: m.hussain.arslan@gmail.com
-- LinkedIn: [Hussain Arslan](https://www.linkedin.com/in/hussainarslan/)
-
-![](https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif)
+- LinkedIn: [hussainarslan](https://www.linkedin.com/in/hussainarslan/)
+- GitHub: You're already here.
