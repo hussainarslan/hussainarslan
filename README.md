@@ -1,6 +1,6 @@
-# Hussain Arslan
+# Hi, I'm Hussain Arslan!
 
-**Software Engineer | Building AI-powered systems that actually ship**
+**CTO @ [Entropy and Co.](https://entropyand.co) | Building AI-powered systems that actually ship**
 
 I specialize in multi-agent orchestration, LLM optimization, and production systems that handle real-world complexity. From voice-powered legal intake to intelligent document processing pipelines, I build AI infrastructure that scales.
 
@@ -98,11 +98,13 @@ Additional optimizations: 200-400ms saved via GCS streaming, 50-100ms saved via 
 
 **Portus** - Multi-agent orchestration platform integrating with Claude Desktop and MCP for coordinated AI workflows
 
-**Obelisk** - Website intelligence platform with vector search, achieving sub-10ms indexed lookups and comprehensive competitive analysis
+**[Obelisk](https://theobelisk.app)** - Website intelligence platform with vector search, achieving sub-10ms indexed lookups and comprehensive competitive analysis
 
 **GRACE** - Voice-powered intake agents for legal automation, handling real-time conversational AI for client onboarding
 
 **Anatomia** - Healthcare management system with real-time patient queue management, nurse and doctor workflow automation, and role-based dashboards
+
+**[Bonnet](https://www.bonnet.ai/)** - AI-powered branding platform delivering agency-level research, strategy, and design including audience analysis, demographics, and competitor insights
 
 ---
 
