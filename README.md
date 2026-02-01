@@ -12,10 +12,7 @@ I specialize in multi-agent orchestration, LLM optimization, and production syst
 |--------|-------------|
 | API Latency | P95 under 600ms with full AI pipeline |
 | Batch Processing | 10x faster embedding generation |
-| Concurrent Jobs | 98-100% success rate at 10 simultaneous jobs |
-| Cost per Analysis | $0.012 per deep analysis job |
 | Query Performance | Sub-10ms indexed lookups |
-| PDF Processing | 18+ documents in 5-6 minutes |
 
 Additional optimizations: 200-400ms saved via GCS streaming, 50-100ms saved via connection pooling.
 
